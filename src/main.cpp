@@ -23,6 +23,10 @@ int main()
     parser::Expression* e = parser.parse_tokens(tokens);
 
     parser::print_expression(e);
+
+    delete e;
+
+    return 0;
 }
 
 

@@ -25,17 +25,17 @@ namespace parser
                         std::vector<lexer::Token> right_side_tokens = tokens;
                         right_side_tokens.erase(right_side_tokens.begin() + i);
 
-                        Expression* tree = new Unary(tokens[i], parse_tokens(right_side_tokens));
+                        Unary* tree = new Unary(tokens[i], parse_tokens(right_side_tokens));
 
-                        return tree;
+                        return (Expression*)tree;
                     }
                 }
 
                 if (tokens[i].getType() == lexer::TokenType::NUMBER)
                 {
-                    Expression* tree = new Literal(tokens[i]);
+                    Literal* tree = new Literal(tokens[i]);
 
-                    return tree;
+                    return (Expression*) tree;
                 }
 
                 //if (tokens[i].getType() == lexer::TokenType::STAR)
@@ -43,6 +43,10 @@ namespace parser
                 //
                 //}
             }
+
+            return nullptr;
         }
+
+
     };
 }

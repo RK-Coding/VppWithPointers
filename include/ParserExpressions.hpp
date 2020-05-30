@@ -11,6 +11,7 @@ namespace parser
     struct Expression 
     {
     public:
+        virtual ~Expression() {}
         virtual std::string get_string_form() { return "Empty Expression"; }
     };
 
@@ -20,6 +21,7 @@ namespace parser
         lexer::Token type;
         
         Literal(lexer::Token type) : type(type) {}
+        
 
         std::string get_string_form() override { return "Literal(" + type.getLiteral() + ")"; }
     };
@@ -29,6 +31,7 @@ namespace parser
     public:
         lexer::Token symbol_beginning, symbol_end;
         Expression* expression;
+        ~Grouping();
         Grouping(lexer::Token symbol_beginning, Expression* expression, lexer::Token symbol_end) : symbol_beginning(symbol_beginning),  symbol_end(symbol_end), expression(expression) {}
     };
 
@@ -39,6 +42,7 @@ namespace parser
         Expression* expression;
 
         Unary(lexer::Token prefix, Expression* expression) : prefix(prefix), expression(expression) {}
+        ~Unary() {}
 
         std::string get_string_form() override { return "Unary(" + prefix.getLexeme() + "," + expression->get_string_form() + ")"; }
     };
@@ -49,7 +53,7 @@ namespace parser
         Expression* left;
         Expression* right;
         lexer::Token operator_;
-
+        ~Binary();
         Binary(Expression* left, lexer::Token operator_, Expression* right) : left(left), right(right), operator_(operator_) {}
     };
 
@@ -57,6 +61,7 @@ namespace parser
     {
     public:
         lexer::Token symbol;
+        ~Operator_();
         Operator_(lexer::Token symbol) : symbol(symbol) {}
     };
 }
