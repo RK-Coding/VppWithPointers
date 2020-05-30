@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"path": "bin/.."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Sanitize Addresses",
+			"working_dir": "${project_path}",
+			"cmd": ["g++ -c src/*.cpp -std=c++17 -fsanitize=address -fno-omit-frame-pointer -m64 -g -Wall -I include && g++ *.o -o bin/debug/main -fsanitize=address -fno-omit-frame-pointer && ./bin/debug/main"],
+			"selector": "source.c++",
+			"shell": true
+		},
+		{
+			"name": "Debug",
+			"working_dir": "${project_path}",
+			"cmd": ["g++ -c src/*.cpp -std=c++17 -m64 -g -Wall -I include && g++ *.o -o bin/debug/main && ./bin/debug/main"],
+			"selector": "source.c++",
+			"shell": true
+		},
+		{
+			"name": "Release",
+			"working_dir": "${project_path}",
+			"cmd": ["g++ -c src/*.cpp -std=c++17 -m64 -O3 -Wall -I include && g++ *.o -o bin/release/main -s  && ./bin/release/main"],
+			"selector": "source.c++",
+			"shell": true
+		}
+	]
+}

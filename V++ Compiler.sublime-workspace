@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parse_tokens"
+			],
+			[
+				"scan",
+				"scanAllTokens"
+			],
+			[
+				"hand",
+				"handleIdentifier"
+			],
+			[
+				"nu",
+				"getNumParsedChars"
+			],
+			[
+				"peek",
+				"peekNext"
+			],
+			[
+				"is",
+				"isDigit"
+			],
+			[
+				"tok",
+				"Token"
+			],
+			[
+				"token",
+				"TokenType"
+			],
+			[
+				"Tok",
+				"TokenType"
+			],
+			[
+				"T",
+				"TokenType"
+			],
+			[
+				"dep",
+				"dependancy"
+			],
+			[
+				"depa",
+				"dependancy"
+			],
+			[
+				"generate",
+				"generateDependancies"
+			],
+			[
+				"prin",
+				"printLib"
+			],
+			[
+				"g",
+				"gHeapMem"
+			],
+			[
+				"out",
+				"outFile"
+			],
+			[
+				"gK",
+				"gkeyWords"
+			],
+			[
+				"phys",
+				"physicsSystem"
+			],
+			[
+				"full",
+				"fullImpulse"
+			],
+			[
+				"fu",
+				"fullImpulse"
+			],
+			[
+				"apply",
+				"applyLinearImpulse"
+			],
+			[
+				"get",
+				"getRestitution"
+			],
+			[
+				"conta",
+				"contactVel"
+			],
+			[
+				"ang",
+				"angVelB"
+			],
+			[
+				"imp",
+				"impulseResolveCollision"
+			],
+			[
+				"con",
+				"contactPoint"
+			],
+			[
+				"P",
+				"PhysicsObject"
+			],
+			[
+				"C",
+				"ContactPoint"
+			],
+			[
+				"updat",
+				"updateCollisionList"
+			],
+			[
+				"half",
+				"halfSizeA"
+			],
+			[
+				"hal",
+				"halfSizeA"
+			],
+			[
+				"p",
+				"physicsObject"
+			],
+			[
+				"AABB",
+				"AABBIntersection"
+			],
+			[
+				"V",
+				"Vector2f"
+			],
+			[
+				"ha",
+				"halfSizeB"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"cla",
+				"clamped"
+			],
+			[
+				"nor",
+				"normalise"
+			],
+			[
+				"co",
+				"collision"
+			],
+			[
+				"cir",
+				"CircleIntersection"
+			],
+			[
+				"del",
+				"deltaLength"
+			],
+			[
+				"collin",
+				"collisionFrames"
+			],
+			[
+				"objec",
+				"objectIntersection"
+			],
+			[
+				"ve",
+				"vecta"
+			],
+			[
+				"b",
+				"boundingVolumes"
+			],
+			[
+				"Vo",
+				"VolumeType"
+			],
+			[
+				"re",
+				"restitution"
+			],
+			[
+				"do",
+				"dotProduct"
+			],
+			[
+				"de",
+				"density"
+			],
+			[
+				"Ve",
+				"Vector2f"
+			],
+			[
+				"Vect",
+				"Vector2f"
+			],
+			[
+				"Phy",
+				"PhysicsObject"
+			],
+			[
+				"ph",
+				"physicsCreateInfo"
+			],
+			[
+				"phy",
+				"physicsSystem"
+			],
+			[
+				"physi",
+				"physicsCreateInfo"
+			],
+			[
+				"da",
+				"dampingFactor"
+			],
+			[
+				"int",
+				"integrateVel"
+			],
+			[
+				"frame",
+				"framesRenderedInOneSecond"
+			],
+			[
+				"gW",
+				"gWinHeight"
+			],
+			[
+				"rou",
+				"roundToScale"
+			],
+			[
+				"e",
+				"entities"
+			],
+			[
+				"cam",
+				"camZoom"
+			],
+			[
+				"zoo",
+				"zoomRate"
+			],
+			[
+				"W",
+				"gWinWidth"
+			],
+			[
+				"str",
+				"stretch"
+			],
+			[
+				"SDL_",
+				"SDL_Rect"
+			],
+			[
+				"win",
+				"gWinWidth"
+			],
+			[
+				"gWin",
+				"gWinHeight"
+			],
+			[
+				"Cam",
+				"Camera"
+			],
+			[
+				"Came",
+				"CameraCreateInfo"
+			],
+			[
+				"In",
+				"IntRect"
+			],
+			[
+				"E",
+				"Entity"
+			],
+			[
+				"load",
+				"loadTexture"
+			],
+			[
+				"p_file",
+				"p_fileName"
+			],
+			[
+				"set",
+				"setPos"
+			],
+			[
+				"tim",
+				"timeStep"
+			],
+			[
+				"getP",
+				"getPhysicsObject"
+			],
+			[
+				"Ph",
+				"PhysicsSystem"
+			],
+			[
+				"cu",
+				"currentCamPos"
+			],
+			[
+				"WIN",
+				"WIN_HEIGHT"
+			],
+			[
+				"mo",
+				"mountainTexture"
+			],
+			[
+				"tiem",
+				"timeStep"
+			],
+			[
+				"VE",
+				"Vector2f"
+			],
+			[
+				"SDL_G",
+				"SDL_GetTicks"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"war",
+				"warriorPtr"
+			],
+			[
+				"memor",
+				"memoryGB"
+			],
+			[
+				"mem",
+				"memoryGB"
+			],
+			[
+				"dev",
+				"deviceMemoryProperties"
+			],
+			[
+				"device",
+				"deviceProperties"
+			],
+			[
+				"devi",
+				"deviceProperties"
+			],
+			[
+				"p_p",
+				"p_pCallbackData"
+			],
+			[
+				"VkDebugUtilsMessen",
+				"VkDebugUtilsMessengerCreateInfoEXT"
+			],
+			[
+				"pop",
+				"populateDebugMessenger"
+			],
+			[
+				"VkDebugUtilsMes",
+				"VkDebugUtilsMessengerCreateInfoEXT"
+			],
+			[
+				"vkDestroyDebug",
+				"PFN_vkDestroyDebugUtilsMessengerEXT"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"create",
+				"createDebugUtilsMessengerEXT"
+			],
+			[
+				"glfw",
+				"glfwExtensions"
+			],
+			[
+				"glfwE",
+				"glfwExtensionCount"
+			],
+			[
+				"gfl",
+				"glfwExtensionCount"
+			],
+			[
+				"ava",
+				"availableLayers"
+			],
+			[
+				"vkEnu",
+				"vkEnumerateInstanceLayerProperties"
+			],
+			[
+				"enab",
+				"enableValidationLayers"
+			],
+			[
+				"glf",
+				"glfwExtensions"
+			],
+			[
+				"ext",
+				"extensions"
+			],
+			[
+				"ex",
+				"extensionName"
+			],
+			[
+				"p_",
+				"p_requiredExtensions"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"glfwEx",
+				"glfwExtensionCount"
+			],
+			[
+				"extension",
+				"extensions"
+			],
+			[
+				"WI",
+				"WIN_HEIGHT"
+			],
+			[
+				"uniformBuffers",
+				"uniformBuffersMemory"
+			],
+			[
+				"VK_MEMORY_PROPERTY_HOST_",
+				"VK_MEMORY_PROPERTY_HOST_COHERENT_BIT"
+			],
+			[
+				"des",
+				"descriptorSetLayout"
+			],
+			[
+				"VK_ST",
+				"VK_STRUCTURE_TYPE_MEMORY_ALLOCATE_INFO"
+			],
+			[
+				"run",
+				"runtime_error"
+			],
+			[
+				"N",
+				"NDEBUG"
+			],
+			[
+				"p_win",
+				"p_winWidth"
+			],
+			[
+				"imageA",
+				"imageAvailableSemaphores"
+			],
+			[
+				"renderFin",
+				"renderFinishedSemaphores"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"que",
+				"queueFamilyCount"
+			],
+			[
+				"pys",
+				"physicalDevice"
+			],
+			[
+				"VK_DEBUG_UTILS_MESSAGE_SEVERITY",
+				"VK_DEBUG_UTILS_MESSAGE_SEVERITY_ERROR_BIT_EXT"
+			],
+			[
+				"VK_DEBUG_UTILS",
+				"VK_DEBUG_UTILS_MESSAGE_SEVERITY_WARNING_BIT_EXT"
+			],
+			[
+				"Vu",
+				"VULKAN_SDK_PATH"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/io.cpp",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/punee/Desktop/VPPWITHPARSER"
+	],
+	"file_history":
+	[
+		"/home/martin/Downloads/lox-simple-master/src/Parser.cpp",
+		"/home/martin/Downloads/Parser.cpp",
+		"/home/martin/Dev/V++/include/Parser.hpp",
+		"/home/martin/Dev/V++/compile.bat",
+		"/tmp/mozilla_martin0/message.txt",
+		"/home/martin/Downloads/Vpp-master/include/test.cpp",
+		"/home/martin/Downloads/lox-simple-master/src/ParserNext.cpp",
+		"/home/martin/Dev/V++/V++ Compiler.sublime-project",
+		"/home/martin/Downloads/lox-simple-master/scripts/fibonacci-chapter10.lox",
+		"/home/martin/Downloads/lox-simple-master/scripts/short-circuit-chapter9.expected",
+		"/home/martin/Downloads/lox-simple-master/scripts/countThree.lox",
+		"/home/martin/Dev/V++/examples/example.vpp",
+		"/home/martin/Dev/V++/src/tokentype.cpp",
+		"/home/martin/Dev/V++/src/token.cpp",
+		"/home/martin/Downloads/lox-simple-master/src/Scanner.cpp",
+		"/home/martin/Downloads/lox-simple-master/src/Token.cpp",
+		"/home/martin/Downloads/lox-simple-master/src/TokenType.cpp",
+		"/home/martin/Downloads/lox-simple-master/src/main.cpp",
+		"/home/martin/Dev/V++/vpplib/memory.cpp",
+		"/home/martin/Dev/V++/vpplib/print.cpp",
+		"/home/martin/Dev/V++/vsrc/out/main.cpp",
+		"/home/martin/Dev/FarmHold/SFML Port/src/main.cpp",
+		"/home/martin/Downloads/main(1).vpp",
+		"/home/martin/Downloads/main.vpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/FarmHold.sublime-project",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/include/KeyDefs.hpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/include/PhysicsObject.hpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/src/math.cpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/include/Math.hpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/src/physicsobject.cpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/src/player.cpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/include/BoundingVolumes.hpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/include/PhysicsSystem.hpp",
+		"/home/martin/Dev/FarmHold/SDL Port 1.0/src/physicssystem.cpp",
+		"/home/martin/.config/sublime-text-3/Packages/Default/exec.py",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/renderwindow.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/Player.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/player.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/physicssystem.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/PhysicsSystem.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/Math.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/physicsobject.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/math.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/PhysicsObject.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/main.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/GameWorld.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/gameworld.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/Camera.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/camera.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/entity.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/Entity.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/src/shapes.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/Shapes.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/include/KeyDefs.hpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/FarmHold.sublime-project",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/math.o",
+		"/home/martinpmast/Dev/FarmHold/SDL Port/src/main.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port/src/renderwindow.cpp",
+		"/home/martinpmast/Dev/FarmHold/SDL Port 1.0/bin/debug/run.sh",
+		"/home/martinpmast/Dev/FarmHold/SDL Port/include/BackGround.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/camera.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/Camera.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/BackGround.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/physics.o",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/Entity.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/GameWorld.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/gameworld.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/main.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/entity.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/physics.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/renderwindow.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/Platform.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/include/Player.hpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/player.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/platform.cpp",
+		"/home/martinpmast/Desktop/FarmHold/SDL Port/src/math.cpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/include/Math.hpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/src/math.cpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/include/Camera.hpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/src/camera.cpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/src/player.cpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/include/Player.hpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/include/Platform.hpp",
+		"/home/marty/Desktop/Dev/FarmHold/SDL Port/FarmHold.sublime-project",
+		"/home/marty/Desktop/Dev/FarmHold/Vulkan Port/FarmHold.sublime-project",
+		"/home/marty/Desktop/FarmHold/Vulkan Port/FarmHold.sublime-project",
+		"/home/marty/Dev/FarmHold/FarmHold.sublime-project",
+		"/home/marty/Dev/FarmHold/res/shaders/compile.sh",
+		"/home/marty/Dev/FarmHold/res/shaders/shader.vert",
+		"/home/marty/Dev/FarmHold/src/main.cpp",
+		"/home/marty/.config/sublime-text-3/Packages/1337 Color Scheme/1337.tmTheme",
+		"/home/marty/Dev/FarmHold/bin/debug/res/shaders/vert.spv",
+		"/home/marty/Dev/FarmHold/bin/release/res/shaders/frag.spv",
+		"/home/marty/Dev/FarmHold/bin/release/res/shaders/vert.spv",
+		"/home/marty/Dev/FarmHold/bin/debug/res/shaders/frag.spv",
+		"/home/marty/Dev/FarmHold/res/shader.vert",
+		"/home/marty/Dev/FarmHold/res/shader.frag",
+		"/home/marty/Dev/FarmHold/Makefile",
+		"/home/marty/Dev/FarmHold/main.cpp",
+		"/home/marty/.config/sublime-text-3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addToken",
+			"std::cout",
+			"line",
+			"token::",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"lexer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/io.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 321.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Debug",
+	"project": "V++ Compiler.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
